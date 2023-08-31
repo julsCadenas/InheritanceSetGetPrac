@@ -1,4 +1,6 @@
-**This is a java program that simulates an ATM Machine.**
+## This is a java program that simulates an ATM Machine.
+ 
+You run this on your IDE
 
 ## Getting Started
 
